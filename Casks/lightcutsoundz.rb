@@ -3,12 +3,12 @@ cask "lightcutsoundz" do
 
   on_arm do
     url "https://github.com/light-cut-soundz/light-cut-soundz/releases/download/v#{version}/LightCutSoundZ_#{version}_aarch64.dmg"
-    sha256 "5eba484eb97da4165b61bd5a39705662764a16fed919b171c1ace97f196e444b"
+    sha256 "4f07654e35f47d9135542e32376187f0f155519a3a521abf928af41d38d9016f"
   end
 
   on_intel do
     url "https://github.com/light-cut-soundz/light-cut-soundz/releases/download/v#{version}/LightCutSoundZ_#{version}_x64.dmg"
-    sha256 "0607bdf2b1aea2ce1c2d9653503463131c914c987a70ae4bfc3e795825b678d5"
+    sha256 "38fa3f3d72a5a9e3c67b15a67da8761019cba70f9061d0a6a7c24726833d4516"
   end
 
   name "LightCutSoundZ"

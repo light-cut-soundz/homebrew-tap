@@ -1,9 +1,9 @@
 cask "lightcutsoundz" do
-  version "0.1.7"
+  version "0.1.8"
 
   on_arm do
     url "https://github.com/light-cut-soundz/light-cut-soundz/releases/download/v#{version}/LightCutSoundZ_#{version}_aarch64.dmg"
-    sha256 "188e2813373ce004cfed87dcdf05beed99c867f7988e54a532b562b5be04dd38"
+    sha256 "4f57db3b3fc13166d63cbfca34475580ed4dfd8a6d0cdde6e2bebc12daa03e58"
   end
 
   on_intel do

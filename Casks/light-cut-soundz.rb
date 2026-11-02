@@ -1,6 +1,6 @@
 cask "light-cut-soundz" do
-  version "1.0.0"
-  sha256 "394974395a17ff1f0fdaed2b457e76de23cd7b90fc4e39c56c53871c326d43a5"
+  version "1.0.1"
+  sha256 "17bb379351daf9181552adc8becc9a8bf0e5e506aa70ca750d46492f91cc0f91"
 
   url "https://github.com/light-cut-soundz/light-cut-soundz/releases/download/v#{version}/LightCutSoundz_aarch64.app.tar.gz"
   name "LightCutSoundz"
